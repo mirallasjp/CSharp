@@ -1,0 +1,5 @@
+F:\Programacion\C#\Pruebas\04 CSharpYa\04 CSharpYa\bin\Debug\04 CSharpYa.exe.config
+F:\Programacion\C#\Pruebas\04 CSharpYa\04 CSharpYa\bin\Debug\04 CSharpYa.exe
+F:\Programacion\C#\Pruebas\04 CSharpYa\04 CSharpYa\bin\Debug\04 CSharpYa.pdb
+F:\Programacion\C#\Pruebas\04 CSharpYa\04 CSharpYa\obj\Debug\04 CSharpYa.exe
+F:\Programacion\C#\Pruebas\04 CSharpYa\04 CSharpYa\obj\Debug\04 CSharpYa.pdb
