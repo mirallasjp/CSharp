@@ -1,0 +1,6 @@
+F:\Programacion\C#\Pruebas\08 CSharpYa\08 CSharpYa\bin\Debug\08 CSharpYa.exe.config
+F:\Programacion\C#\Pruebas\08 CSharpYa\08 CSharpYa\bin\Debug\08 CSharpYa.exe
+F:\Programacion\C#\Pruebas\08 CSharpYa\08 CSharpYa\bin\Debug\08 CSharpYa.pdb
+F:\Programacion\C#\Pruebas\08 CSharpYa\08 CSharpYa\obj\Debug\08 CSharpYa.csprojResolveAssemblyReference.cache
+F:\Programacion\C#\Pruebas\08 CSharpYa\08 CSharpYa\obj\Debug\08 CSharpYa.exe
+F:\Programacion\C#\Pruebas\08 CSharpYa\08 CSharpYa\obj\Debug\08 CSharpYa.pdb
